@@ -1,0 +1,14 @@
+{
+    "num_list": [
+        {
+            "id": "0",
+            "name": "hieu trinh",
+            "dob": "30/09/2004"
+        },
+        {
+            "id": "1",
+            "name": "hieu trinh 2",
+            "dob": "23/06/2004"
+        }
+    ]
+}
